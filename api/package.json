@@ -1,0 +1,20 @@
+{
+  "name": "surf-eros-api",
+  "version": "1.0.0",
+  "description": "surf-eros_api",
+  "main": "index.js",
+  "author": "Valdir Coxev",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc"
+  },
+  "devDependencies": {
+    "@types/module-alias": "^2.0.0",
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
+}
